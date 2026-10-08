@@ -1,0 +1,14 @@
+{
+  "name": "workspace-mapper",
+  "owner": {
+    "name": "Etienne Nel"
+  },
+  "description": "A map Claude reads first: root CLAUDE.md routing to per-folder CONTEXT.md files, with a drift check.",
+  "plugins": [
+    {
+      "name": "workspace-mapper",
+      "source": "./",
+      "description": "Map, scaffold and check a project's CLAUDE.md / CONTEXT.md / REFERENCES.md files."
+    }
+  ]
+}

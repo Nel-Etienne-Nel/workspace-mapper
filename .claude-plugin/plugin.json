@@ -1,0 +1,11 @@
+{
+  "name": "workspace-mapper",
+  "version": "0.2.0",
+  "description": "Map, scaffold and check the files Claude reads to find its way around a project: a root CLAUDE.md that routes to a CONTEXT.md (what's here + what's happening now) and, where needed, a REFERENCES.md in each folder.",
+  "author": {
+    "name": "Etienne Nel"
+  },
+  "homepage": "https://github.com/Nel-Etienne-Nel/workspace-mapper",
+  "license": "MIT",
+  "keywords": ["claude-md", "context", "workspace", "documentation", "project-structure", "drift"]
+}
